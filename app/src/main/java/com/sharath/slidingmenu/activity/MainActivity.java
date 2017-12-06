@@ -1,7 +1,9 @@
-package com.sharath.slidingmenu;
+package com.sharath.slidingmenu.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.sharath.slidingmenu.R;
 
 public class MainActivity extends AppCompatActivity {
 
